@@ -1,5 +1,5 @@
-# Minestats
-Minestats is the **only** platform providing statistics for the Minecraft server networtk minemen.club. Providing a publicly available [Discord bot](https://discord.com/discovery/applications/1302338512955244576) currently used by **over 300 servers** and **800+ users** daily!
+# MineStats
+MineStats is the **only** platform providing statistics for the Minecraft server network minemen.club. Providing a publicly available [Discord bot](https://discord.com/discovery/applications/1302338512955244576) currently used by **over 300 servers** and **800+ users** daily!
 We work every free minute to improve this project and share new insights about players and more. 
 
 # Our Server
